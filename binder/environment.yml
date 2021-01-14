@@ -1,4 +1,4 @@
-name: cml-2020
+name: cml-2021
 channels:
   - conda-forge
 dependencies:
